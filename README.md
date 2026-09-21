@@ -1,6 +1,6 @@
 # Superstore Sales Analysis
 
-基于 kaggle 的 Superstore 销售数据的探索性分析项目，使用 Python、pandas、Matplotlib 和 Seaborn，对 2015 至 2018 年的销售趋势、地区、品类、产品、客户和配送表现进行分析。
+基于 Kaggle 的 Superstore 销售数据的探索性分析项目，使用 Python、pandas、Matplotlib 和 Seaborn，对 2015 至 2018 年的销售趋势、地区、品类、产品、客户和配送表现进行分析。
 
 ## 项目目标
 
